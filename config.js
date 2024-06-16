@@ -7,8 +7,8 @@ module.exports = {
  "https":"https://", // leave as is
  "port":"5003",
 
- "client_id":"", // bot client ID
- "secret":"" // bot client secret for auth
+ "client_id":"1250046573187039324", // bot client ID
+ "secret":"u_6cNGkf_xfUbY5b7Nq7xwbiSzWGwnFl" // bot client secret for auth
 
 }
 
